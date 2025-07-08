@@ -24,7 +24,7 @@
   Web app for tracking and optimizing city waste bin routes.
 
 - 📚 **Library Management System**  
-  GUI app in Python with full book/member tracking.
+ A web-based Library Management System built with PHP and MySQL to manage books, users, and transactions efficiently.
 
 
 ### 🧠 Skills & Tools
