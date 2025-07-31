@@ -19,20 +19,21 @@
 
 - 🌊 **Flood Warning IoT System**  
   Arduino-based system with GSM alerts to prevent flood disasters.
-
-- 🗑️ **Smart Waste Management Dashboard**  
-  Web app for tracking and optimizing city waste bin routes.
-
+  
+- 🧊 **ARCubePlacer (iOS AR App)**  
+  iOS app built using Swift and ARKit that places 3D cubes in real-world space using the iOS Simulator.
+  
 - 📚 **Library Management System**  
  A web-based Library Management System built with PHP and MySQL to manage books, users, and transactions efficiently.
 
 
 ### 🧠 Skills & Tools
 
-- Languages: `Python`, `C`, `HTML`, `CSS`, `JavaScript`, `SQL`
-- Frameworks: `Tkinter`, `React`, `Tailwind CSS`
+- Languages: `Python`, `Swift`, `C`, `HTML`, `CSS`, `JavaScript`
+- Frameworks: `OpenCV`, `ARKit`, `SceneKit`
+- Databases**: `MySQL`, `Firebase`
 - Hardware: `Arduino UNO`, `GSM SIM800C`, `Sensors`
-- Others: `Git`, `Firebase`, `OpenAI API`
+
 
 ### 📫 How to reach me
 
