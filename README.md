@@ -31,7 +31,7 @@
 
 - Languages: `Python`, `Swift`, `C`, `HTML`, `CSS`, `JavaScript`
 - Frameworks: `OpenCV`, `ARKit`, `SceneKit`
-- Databases**: `MySQL`, `Firebase`
+- Databases: `MySQL`, `Firebase`
 - Hardware: `Arduino UNO`, `GSM SIM800C`, `Sensors`
 
 
